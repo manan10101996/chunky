@@ -1,6 +1,6 @@
 {
   "name": "@manan1010/chunky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fancy logging utility for your JavaScript projects.",
   "main": "index.js",
   "scripts": {
