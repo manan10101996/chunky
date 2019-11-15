@@ -1,0 +1,19 @@
+{
+  "name": "@manan1010/chunky",
+  "version": "1.0.0",
+  "description": "A fancy logging utility for your JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manan10101996/chunky.git"
+  },
+  "author": "Manan Shah",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/manan10101996/chunky/issues"
+  },
+  "homepage": "https://github.com/manan10101996/chunky#readme"
+}
